@@ -1,0 +1,32 @@
+body {
+padding-top: 4.5em;
+}
+.hero-image{
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+.page-wrapper {
+display: flex;
+}
+.page-content {
+width: 100%;
+display: flex;
+padding-top: 3em;
+}
+.main-column{
+width: 100%;
+}
+.side-menu {
+width: 25em;
+}
+.side-menu h2 {
+padding: 1em 1em 0 0.7em;
+font-size: 1.5em;
+}
+.right-column {
+min-width: 20em;
+padding: 3em 2em;
+}
+.side-menu .active {
+background: black; color: white; border-radius: 3px; }
