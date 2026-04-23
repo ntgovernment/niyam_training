@@ -1,2 +1,2 @@
 # niyam_training
-training
+
